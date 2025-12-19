@@ -74,14 +74,6 @@
 - 🔄 Continuous Learning in Cloud & DevOps
 - 📘 Following **Cloud Native & DevOps Best Practices**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghufran-azeem&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran-azeem&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
